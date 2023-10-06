@@ -94,6 +94,7 @@
     }
   }
   
+  /* Aqui está definindo uma forma com bordas arredondas em 50%, com uma borda de 10 pixeis de cor preta e um pedaço de bora verde que recebe a animação de rotação linear e infinita, também recebe uma keyframe para iniciar a rotação em 0deg e terminar em 360deg. Adicionei uma margem também*/
   .loading {
     width: 200px;
     height: 200px;
